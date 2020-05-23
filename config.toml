@@ -1,4 +1,4 @@
-baseURL = "https://www.indiannews.live/"
+baseURL = "https://xenodochial-leakey-52a27b.netlify.app/"
 languageCode = "en-us"
 title = "Indian News"
 theme = "hugo-news-theme"
