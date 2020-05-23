@@ -21,4 +21,5 @@ fields:
   name: author
   label: author
 pages:
+- content/news/news-baru.md
 - content/pages1.md
