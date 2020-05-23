@@ -1,1 +1,15 @@
-<p> sign</p>
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head"}}
+<body>
+        {{ partial "header"}}
+        {{block "news-slider".}}
+        {{end}}
+        {{ block "main" . }}
+        {{end}}
+        {{ block "2nd" . }}
+        {{end}}
+        {{ partial "footer"}}
+{{partial "scripts"}}
+  </body>
+</html>
