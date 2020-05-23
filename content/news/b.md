@@ -1,5 +1,5 @@
 ---
-title: "today's hot news2"
+title: "today's hot news"
 date: 2020-05-26T14:08:22+05:30
 image: "/images/administration-articles-bank-261949.jpg"
 tags: ["brief", "hot news"]
